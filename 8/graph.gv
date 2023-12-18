@@ -1,0 +1,2252 @@
+igraph {
+	LRL
+	LRL -> MCG
+	LRL -> TRC
+	TNJ
+	TNJ -> LMV
+	TNJ -> PMP
+	GQK
+	GQK -> MGD
+	GQK -> DBP
+	KVK
+	KVK -> LHC
+	KVK -> NMM
+	PQX
+	PQX -> SLC
+	PQX -> LSD
+	GRR
+	GRR -> XCR
+	GRR -> BJT
+	RBF
+	RBF -> VDM
+	RBF -> BFG
+	TKN
+	TKN -> VDH
+	TKN -> HGQ
+	MMJ
+	MMJ -> LTR
+	MMJ -> CNQ
+	CCX
+	CCX -> FJJ
+	CCX -> FKD
+	VHD
+	VHD -> JFQ
+	VHD -> DDH
+	NRL
+	NRL -> CTM
+	NRL -> XTJ
+	SNH
+	SNH -> QDH
+	SNH -> PSQ
+	JTM
+	JTM -> VFH
+	JTM -> QBR
+	BJT
+	BJT -> GJL
+	BJT -> JXD
+	LBJ
+	LBJ -> JFQ
+	LBJ -> DDH
+	FPN
+	FPN -> PBT
+	FPN -> SJR
+	CGR
+	CGR -> NJC
+	CGR -> CNF
+	RCM
+	RCM -> GTQ
+	RCM -> BBT
+	BQQ
+	BQQ -> FNS
+	BQQ -> KPL
+	NSF
+	NSF -> SLD
+	NSF -> SJV
+	QFQ
+	QFQ -> XNX
+	QFQ -> GHT
+	QCZ
+	QCZ -> JPG
+	QCZ -> NLJ
+	RJD
+	RJD -> QDT
+	RJD -> NSG
+	CNK
+	CNK -> SKK
+	CNK -> NFL
+	CBR
+	CBR -> QDT
+	CBR -> NSG
+	QMV
+	QMV -> HXG
+	QMV -> FHS
+	DNL
+	DNL -> XLX
+	DNL -> RDT
+	XRS
+	XRS -> DHT
+	XRS -> RDP
+	GHV
+	GHV -> FHS
+	GHV -> HXG
+	MJM
+	MJM -> GQB
+	MJM -> XCC
+	GQC
+	GQC -> NKG
+	GQC -> NSF
+	RKH
+	RKH -> KVG
+	RKH -> JCQ
+	DKT
+	DKT -> LTN
+	DKT -> LTN
+	THR
+	THR -> PHF
+	THR -> VKN
+	BQV
+	BQV -> BTS
+	BQV -> SCG
+	BJJ
+	BJJ -> GQC
+	BJJ -> QRR
+	CQL
+	CQL -> LHK
+	CQL -> BCD
+	LXX
+	LXX -> LCX
+	LXX -> FJV
+	NSG
+	NSG -> VSX
+	NSG -> DFN
+	LSD
+	LSD -> JRL
+	LSD -> KXC
+	QKB
+	QKB -> NLJ
+	QKB -> JPG
+	HSK
+	HSK -> CFN
+	HSK -> NTM
+	BLL
+	BLL -> JJQ
+	BLL -> MSN
+	SQD
+	SQD -> BLK
+	SQD -> LBK
+	KVP
+	KVP -> DBB
+	KVP -> RHN
+	MLJ
+	MLJ -> QQR
+	MLJ -> HDH
+	QVB
+	QVB -> GMN
+	QVB -> TDP
+	HJB
+	HJB -> GPG
+	HJB -> XDT
+	NBX
+	NBX -> NVT
+	NBX -> SNB
+	CLL
+	CLL -> PLG
+	CLL -> LHS
+	AAA
+	AAA -> JXS
+	AAA -> MFQ
+	CHN
+	CHN -> RNL
+	CHN -> FHV
+	JHT
+	JHT -> JQF
+	JHT -> JQX
+	KSB
+	KSB -> VDL
+	KSB -> VBD
+	HBT
+	HBT -> CKB
+	HBT -> CCX
+	JXH
+	JXH -> MQH
+	JXH -> PRD
+	DBB
+	DBB -> XHL
+	DBB -> CHN
+	PBD
+	PBD -> RDB
+	PBD -> VHH
+	SDV
+	SDV -> VMG
+	SDV -> NTV
+	BJS
+	BJS -> NNG
+	BJS -> RQH
+	SLM
+	SLM -> BRB
+	SLM -> FLG
+	VDH
+	VDH -> QPG
+	VDH -> GKG
+	KNS
+	KNS -> VQX
+	KNS -> HFR
+	HBF
+	HBF -> RQC
+	HBF -> MXC
+	JSF
+	JSF -> KPL
+	JSF -> FNS
+	HLS
+	HLS -> TJQ
+	HLS -> TKM
+	TRV
+	TRV -> BVN
+	TRV -> GKF
+	NLJ
+	NLJ -> GBH
+	NLJ -> JCT
+	SVM
+	SVM -> DKT
+	SVM -> XLG
+	THK
+	THK -> NTM
+	THK -> CFN
+	MDK
+	MDK -> DNL
+	MDK -> VXV
+	MHV
+	MHV -> DQQ
+	MHV -> MQX
+	CNF
+	CNF -> QQH
+	CNF -> SLN
+	XJK
+	XJK -> VFH
+	XJK -> QBR
+	FNT
+	FNT -> HXR
+	FNT -> HXR
+	KCT
+	KCT -> CPX
+	KCT -> FXC
+	BDB
+	BDB -> NMP
+	BDB -> JGG
+	LRZ
+	LRZ -> JXC
+	LRZ -> TNJ
+	JBQ
+	JBQ -> NDL
+	JBQ -> KSJ
+	LJQ
+	LJQ -> GHT
+	LJQ -> XNX
+	HKD
+	HKD -> HFH
+	HKD -> VHJ
+	VDM
+	VDM -> GTD
+	VDM -> HRP
+	QQH
+	QQH -> THC
+	QQH -> THR
+	PRD
+	PRD -> KFR
+	PRD -> TJK
+	KKH
+	KKH -> VTJ
+	KKH -> LSR
+	LQS
+	LQS -> SJQ
+	LQS -> RHD
+	RLF
+	RLF -> LCR
+	RLF -> SGG
+	JHK
+	JHK -> PDJ
+	JHK -> TRV
+	QHG
+	QHG -> VMS
+	QHG -> PKS
+	JRL
+	JRL -> GVJ
+	JRL -> SKL
+	XDV
+	XDV -> PJL
+	XDV -> JRN
+	TSV
+	TSV -> KCR
+	TSV -> QJP
+	JSN
+	JSN -> QFQ
+	JSN -> LJQ
+	RLA
+	RLA -> JSN
+	RLA -> JVD
+	KPD
+	KPD -> RDK
+	KPD -> NSS
+	HXP
+	HXP -> RQT
+	HXP -> QTS
+	DDB
+	DDB -> SFH
+	DDB -> RHV
+	JGG
+	JGG -> BJG
+	JGG -> JTS
+	VBD
+	VBD -> SGD
+	VBD -> FRJ
+	HRP
+	HRP -> RJD
+	HRP -> CBR
+	RRT
+	RRT -> MLJ
+	RRT -> MLJ
+	NVD
+	NVD -> KHM
+	NVD -> RBF
+	TNK
+	TNK -> QSX
+	TNK -> KVD
+	NST
+	NST -> CDL
+	NST -> VGL
+	FLF
+	FLF -> SNF
+	FLF -> KRN
+	LHS
+	LHS -> BSD
+	LHS -> DTD
+	NCV
+	NCV -> KSB
+	NCV -> PTG
+	FMX
+	FMX -> QKX
+	FMX -> XFP
+	KMB
+	KMB -> FDM
+	KMB -> BSX
+	CRH
+	CRH -> CVV
+	CRH -> DDS
+	VGL
+	VGL -> JLS
+	VGL -> CPK
+	DBF
+	DBF -> KGB
+	DBF -> PXQ
+	RNM
+	RNM -> HTP
+	RNM -> LVL
+	HKC
+	HKC -> XML
+	HKC -> RTK
+	JLC
+	JLC -> TKN
+	JLC -> VSV
+	FLB
+	FLB -> NNG
+	FLB -> RQH
+	QKH
+	QKH -> GQM
+	QKH -> LSB
+	DTD
+	DTD -> FTJ
+	DTD -> HCK
+	BXS
+	BXS -> HKD
+	BXS -> FDK
+	TKV
+	TKV -> RHN
+	TKV -> DBB
+	QBJ
+	QBJ -> KNS
+	QBJ -> DXQ
+	LBS
+	LBS -> BHT
+	LBS -> SFM
+	VMS
+	VMS -> CTJ
+	VMS -> DDC
+	FQJ
+	FQJ -> FVQ
+	FQJ -> GKR
+	RQC
+	RQC -> LRF
+	RQC -> HCM
+	SSG
+	SSG -> GQK
+	SSG -> HDV
+	KPL
+	KPL -> GQS
+	KPL -> MDK
+	GJN
+	GJN -> PNN
+	GJN -> CPB
+	LHK
+	LHK -> QPD
+	LHK -> GSV
+	KFR
+	KFR -> KPD
+	KFR -> DTV
+	QXC
+	QXC -> QVM
+	QXC -> BHJ
+	XRH
+	XRH -> PKM
+	XRH -> FPN
+	CKL
+	CKL -> BBT
+	CKL -> GTQ
+	FPK
+	FPK -> CRV
+	FPK -> MGR
+	LTK
+	LTK -> LVT
+	LTK -> HXF
+	BLK
+	BLK -> BRT
+	BLK -> BQN
+	BSX
+	BSX -> XMS
+	BSX -> XJN
+	MMR
+	MMR -> JCG
+	MMR -> HHX
+	DVM
+	DVM -> LHK
+	DVM -> BCD
+	RCJ
+	RCJ -> BDB
+	RCJ -> CFK
+	QLN
+	QLN -> DDB
+	QLN -> LDQ
+	GKF
+	GKF -> QLV
+	GKF -> FNP
+	BXQ
+	BXQ -> NKT
+	BXQ -> FFN
+	HCM
+	HCM -> FPK
+	HCM -> KQB
+	HKG
+	HKG -> GQK
+	HKG -> HDV
+	FNS
+	FNS -> GQS
+	FNS -> MDK
+	CTJ
+	CTJ -> NST
+	CTJ -> HDJ
+	QQS
+	QQS -> GQB
+	QQS -> XCC
+	ZZZ
+	ZZZ -> MFQ
+	ZZZ -> JXS
+	MGK
+	MGK -> CRH
+	MGK -> BRV
+	LCR
+	LCR -> FRD
+	LCR -> KMK
+	BKD
+	BKD -> BNR
+	BKD -> BKM
+	LDB
+	LDB -> KLM
+	LDB -> SCC
+	PLS
+	PLS -> PBL
+	PLS -> CRG
+	FQR
+	FQR -> PNR
+	FQR -> NCV
+	TNL
+	TNL -> CDT
+	TNL -> MKC
+	KVH
+	KVH -> FJQ
+	KVH -> SHJ
+	KPT
+	KPT -> KGB
+	KPT -> PXQ
+	GQM
+	GQM -> BXQ
+	GQM -> VLP
+	FDR
+	FDR -> GLC
+	FDR -> KGF
+	DDC
+	DDC -> NST
+	DDC -> HDJ
+	MTJ
+	MTJ -> TMT
+	MTJ -> TMB
+	PBJ
+	PBJ -> LTK
+	PBJ -> VFB
+	JXS
+	JXS -> SBL
+	JXS -> CQB
+	XML
+	XML -> BMK
+	XML -> QBL
+	XSK
+	XSK -> KSN
+	XSK -> KSN
+	TKM
+	TKM -> TKQ
+	TKM -> NTX
+	XFP
+	XFP -> HBX
+	XFP -> RMX
+	DXQ
+	DXQ -> VQX
+	DXQ -> HFR
+	KRN
+	KRN -> CNK
+	KRN -> JDM
+	TJQ
+	TJQ -> TKQ
+	TJQ -> NTX
+	VQX
+	VQX -> LBJ
+	VQX -> VHD
+	TGX
+	TGX -> HLK
+	TGX -> LDJ
+	MCX
+	MCX -> GDH
+	MCX -> BNS
+	DKM
+	DKM -> TVC
+	DKM -> LPB
+	VXD
+	VXD -> GCF
+	VXD -> SVD
+	FGB
+	FGB -> BKM
+	FGB -> BNR
+	VNN
+	VNN -> VCS
+	VNN -> BSR
+	FXX
+	FXX -> LHC
+	FXX -> NMM
+	JKR
+	JKR -> TQN
+	JKR -> GXV
+	FRJ
+	FRJ -> TDK
+	FRJ -> PKQ
+	MMQ
+	MMQ -> SCC
+	MMQ -> KLM
+	XGL
+	XGL -> MSN
+	XGL -> JJQ
+	GTQ
+	GTQ -> DMV
+	GTQ -> LLK
+	KML
+	KML -> MCX
+	KML -> CTT
+	LBH
+	LBH -> LSR
+	LBH -> VTJ
+	BDS
+	BDS -> XJK
+	BDS -> JTM
+	FVH
+	FVH -> TSV
+	FVH -> HHC
+	KXN
+	KXN -> LRL
+	KXN -> QKK
+	HND
+	HND -> HNQ
+	HND -> FSG
+	JQS
+	JQS -> QLL
+	JQS -> RKH
+	CKD
+	CKD -> TBT
+	CKD -> HBT
+	PXP
+	PXP -> NXC
+	PXP -> TTK
+	VHP
+	VHP -> QJC
+	VHP -> QKH
+	KQL
+	KQL -> BQV
+	KQL -> RJR
+	FSG
+	FSG -> JBH
+	FSG -> GPH
+	BVN
+	BVN -> QLV
+	BVN -> FNP
+	HNV
+	HNV -> XFH
+	HNV -> BKL
+	CNJ
+	CNJ -> MNT
+	CNJ -> DCG
+	VSV
+	VSV -> HGQ
+	VSV -> VDH
+	PXB
+	PXB -> RRT
+	PXB -> RRT
+	FNK
+	FNK -> TKC
+	FNK -> LTM
+	VTX
+	VTX -> LDJ
+	VTX -> HLK
+	KKG
+	KKG -> QDL
+	KKG -> SNT
+	CTT
+	CTT -> GDH
+	CTT -> BNS
+	FJJ
+	FJJ -> FNT
+	FJJ -> FNT
+	JCS
+	JCS -> DDB
+	JCS -> LDQ
+	GDH
+	GDH -> TPG
+	GDH -> DND
+	FMF
+	FMF -> XHB
+	FMF -> BNH
+	QLL
+	QLL -> JCQ
+	QLL -> KVG
+	NJK
+	NJK -> RDB
+	NJK -> VHH
+	LHC
+	LHC -> QDS
+	LHC -> SXP
+	QHS
+	QHS -> KQL
+	QHS -> SXQ
+	BJQ
+	BJQ -> BXB
+	BJQ -> HQT
+	GJL
+	GJL -> BTX
+	GJL -> GJC
+	BNR
+	BNR -> NJK
+	BNR -> PBD
+	NFL
+	NFL -> NSC
+	NFL -> FTL
+	SKK
+	SKK -> FTL
+	SKK -> NSC
+	MQN
+	MQN -> FMF
+	MQN -> KPC
+	XHB
+	XHB -> DCS
+	XHB -> SQD
+	MDT
+	MDT -> TDP
+	MDT -> GMN
+	XBL
+	XBL -> TMT
+	XBL -> TMB
+	HFH
+	HFH -> XDV
+	HFH -> DMD
+	BSR
+	BSR -> VTX
+	BSR -> TGX
+	LDH
+	LDH -> BJQ
+	LDH -> XJJ
+	GXX
+	GXX -> KKL
+	GXX -> RCJ
+	PQZ
+	PQZ -> HDH
+	PQZ -> QQR
+	CXH
+	CXH -> VXD
+	CXH -> SGC
+	HPB
+	HPB -> VHR
+	HPB -> FNQ
+	LLF
+	LLF -> QVM
+	LLF -> BHJ
+	VQQ
+	VQQ -> FQD
+	VQQ -> MQN
+	GSV
+	GSV -> NDT
+	GSV -> SLM
+	GLR
+	GLR -> HVD
+	GLR -> DMF
+	SLC
+	SLC -> JRL
+	SLC -> KXC
+	RHV
+	RHV -> HBC
+	RHV -> TFR
+	PVX
+	PVX -> PLS
+	PVX -> SJS
+	LLK
+	LLK -> BDC
+	LLK -> PNK
+	SLL
+	SLL -> FJQ
+	SLL -> SHJ
+	LKT
+	LKT -> VPF
+	LKT -> SSC
+	MXC
+	MXC -> LRF
+	MXC -> HCM
+	FTL
+	FTL -> QSR
+	FTL -> SVH
+	GCF
+	GCF -> JTF
+	GCF -> HJB
+	VHZ
+	VHZ -> RRN
+	VHZ -> TSH
+	LNB
+	LNB -> DQQ
+	LNB -> MQX
+	DRQ
+	DRQ -> XML
+	DRQ -> RTK
+	XLG
+	XLG -> LTN
+	XLG -> VLD
+	LBL
+	LBL -> VVF
+	LBL -> SPR
+	MBB
+	MBB -> NFG
+	MBB -> NFG
+	QJC
+	QJC -> GQM
+	QJC -> LSB
+	LSR
+	LSR -> BJS
+	LSR -> FLB
+	MQH
+	MQH -> TJK
+	MQH -> KFR
+	DFN
+	DFN -> LXG
+	DFN -> LLL
+	MSN
+	MSN -> KXN
+	MSN -> MPV
+	JCT
+	JCT -> MHV
+	JCT -> LNB
+	TPG
+	TPG -> CJJ
+	TPG -> RRD
+	GCV
+	GCV -> NVT
+	GCV -> SNB
+	LNL
+	LNL -> GXX
+	LNL -> DJM
+	XFT
+	XFT -> TSH
+	XFT -> RRN
+	FSS
+	FSS -> SLC
+	FSS -> LSD
+	TKT
+	TKT -> TVC
+	TKT -> LPB
+	XBN
+	XBN -> NBX
+	XBN -> GCV
+	RQT
+	RQT -> QKF
+	RQT -> XRS
+	XCC
+	XCC -> MXL
+	XCC -> RLF
+	RTH
+	RTH -> QVB
+	RTH -> MDT
+	DBP
+	DBP -> HNV
+	DBP -> XCG
+	QQB
+	QQB -> JMF
+	QQB -> PBJ
+	KSJ
+	KSJ -> NCS
+	KSJ -> RNM
+	GNQ
+	GNQ -> CPX
+	GNQ -> FXC
+	HHX
+	HHX -> JKT
+	HHX -> SVM
+	SGG
+	SGG -> KMK
+	SGG -> FRD
+	SMM
+	SMM -> SJS
+	SMM -> PLS
+	VPK
+	VPK -> LTM
+	VPK -> TKC
+	VLD
+	VLD -> QKB
+	VLD -> QCZ
+	LTR
+	LTR -> TFX
+	LTR -> FVN
+	VCL
+	VCL -> DKM
+	VCL -> TKT
+	HXG
+	HXG -> MTG
+	HXG -> SNM
+	KGB
+	KGB -> MRV
+	KGB -> LFD
+	JGK
+	JGK -> CNJ
+	JGK -> RXF
+	FMV
+	FMV -> FRT
+	FMV -> MNF
+	SLD
+	SLD -> KVH
+	SLD -> SLL
+	VVL
+	VVL -> TNJ
+	VVL -> JXC
+	GDP
+	GDP -> RBF
+	GDP -> KHM
+	XDT
+	XDT -> RML
+	XDT -> JHK
+	JKP
+	JKP -> NDL
+	JKP -> KSJ
+	BNH
+	BNH -> SQD
+	BNH -> DCS
+	LFD
+	LFD -> LQC
+	LFD -> HLS
+	NHC
+	NHC -> JHT
+	NHC -> SSM
+	VPF
+	VPF -> NRN
+	VPF -> LBL
+	BHT
+	BHT -> LQS
+	BHT -> MCP
+	SNT
+	SNT -> RHL
+	SNT -> BDS
+	BQN
+	BQN -> XGL
+	BQN -> BLL
+	FVN
+	FVN -> HGP
+	FVN -> QKM
+	NXC
+	NXC -> KQJ
+	NXC -> FMV
+	NKG
+	NKG -> SJV
+	NKG -> SLD
+	HSF
+	HSF -> HPB
+	HSF -> NFR
+	QKM
+	QKM -> RRR
+	QKM -> PMK
+	PJL
+	PJL -> XBN
+	PJL -> PFX
+	MRP
+	MRP -> LCX
+	MRP -> FJV
+	XSQ
+	XSQ -> FDK
+	XSQ -> HKD
+	TVC
+	TVC -> GHN
+	TVC -> QQC
+	XLX
+	XLX -> DKJ
+	XLX -> NNT
+	VSX
+	VSX -> LLL
+	VSX -> LXG
+	FQD
+	FQD -> FMF
+	FQD -> KPC
+	PNJ
+	PNJ -> XCR
+	PNJ -> BJT
+	QDV
+	QDV -> QRJ
+	QDV -> BFS
+	QVG
+	QVG -> GLC
+	QVG -> KGF
+	BMK
+	BMK -> RJS
+	BMK -> FLF
+	SXQ
+	SXQ -> BQV
+	SXQ -> RJR
+	BGL
+	BGL -> CSB
+	BGL -> SBH
+	BJG
+	BJG -> CNH
+	BJG -> PQJ
+	RSG
+	RSG -> QFT
+	RSG -> VPD
+	VVF
+	VVF -> DRQ
+	VVF -> HKC
+	BBT
+	BBT -> LLK
+	BBT -> DMV
+	HGQ
+	HGQ -> GKG
+	HGQ -> QPG
+	HMD
+	HMD -> PHT
+	HMD -> PCD
+	PPL
+	PPL -> CKL
+	PPL -> RCM
+	QLA
+	QLA -> TSH
+	QLA -> RRN
+	KBG
+	KBG -> HBT
+	KBG -> TBT
+	RHD
+	RHD -> HKG
+	RHD -> SSG
+	GQB
+	GQB -> RLF
+	GQB -> MXL
+	QFA
+	QFA -> QQR
+	QFA -> HDH
+	KPC
+	KPC -> BNH
+	KPC -> XHB
+	XNX
+	XNX -> FVH
+	XNX -> MNH
+	HBX
+	HBX -> NFD
+	HBX -> VJF
+	SVD
+	SVD -> HJB
+	SVD -> JTF
+	DMD
+	DMD -> JRN
+	DMD -> PJL
+	PKJ
+	PKJ -> BJQ
+	PKJ -> XJJ
+	TFX
+	TFX -> HGP
+	TFX -> QKM
+	MCH
+	MCH -> PKD
+	MCH -> PFF
+	SGD
+	SGD -> PKQ
+	SGD -> TDK
+	RRJ
+	RRJ -> KCT
+	RRJ -> GNQ
+	PJD
+	PJD -> VLM
+	PJD -> JJZ
+	PHF
+	PHF -> PQX
+	PHF -> FSS
+	PKQ
+	PKQ -> NTP
+	PKQ -> MMR
+	VPD
+	VPD -> QHB
+	VPD -> NHC
+	FRD
+	FRD -> GDP
+	FRD -> NVD
+	SFH
+	SFH -> HBC
+	SFH -> TFR
+	JRN
+	JRN -> XBN
+	JRN -> PFX
+	HSB
+	HSB -> MRP
+	HSB -> LXX
+	RMX
+	RMX -> NFD
+	RMX -> VJF
+	SBH
+	SBH -> JXH
+	SBH -> TSQ
+	NTP
+	NTP -> JCG
+	NTP -> HHX
+	PSX
+	PSX -> FMX
+	PSX -> PCR
+	LCQ
+	LCQ -> PKS
+	LCQ -> VMS
+	LKV
+	LKV -> SMM
+	LKV -> PVX
+	SGC
+	SGC -> SVD
+	SGC -> GCF
+	CQB
+	CQB -> LDD
+	CQB -> QDV
+	FRT
+	FRT -> XCV
+	FRT -> HSF
+	KGT
+	KGT -> SGC
+	KGT -> VXD
+	TRC
+	TRC -> PSX
+	TRC -> NQC
+	BSG
+	BSG -> PKD
+	BSG -> PFF
+	CKB
+	CKB -> FJJ
+	CKB -> FKD
+	SSM
+	SSM -> JQF
+	SSM -> JQX
+	DKJ
+	DKJ -> BKD
+	DKJ -> FGB
+	TKC
+	TKC -> TXS
+	TKC -> FQJ
+	JQX
+	JQX -> DVQ
+	JQX -> NLN
+	BDC
+	BDC -> KNL
+	BDC -> DSV
+	FJV
+	FJV -> MTJ
+	FJV -> XBL
+	DND
+	DND -> CJJ
+	DND -> RRD
+	PPH
+	PPH -> MMQ
+	PPH -> LDB
+	FTJ
+	FTJ -> LKT
+	FTJ -> GNX
+	JKV
+	JKV -> RFM
+	JKV -> MGK
+	KCR
+	KCR -> LLF
+	KCR -> QXC
+	RFN
+	RFN -> LJL
+	RFN -> CFX
+	HCF
+	HCF -> NFG
+	HCF -> HSR
+	NTV
+	NTV -> JXG
+	NTV -> VHP
+	QQR
+	QQR -> DTX
+	QQR -> HND
+	BTX
+	BTX -> QVG
+	BTX -> FDR
+	JQK
+	JQK -> SXQ
+	JQK -> KQL
+	NJC
+	NJC -> SLN
+	NJC -> QQH
+	RML
+	RML -> PDJ
+	RML -> TRV
+	SNF
+	SNF -> JDM
+	SNF -> CNK
+	KMK
+	KMK -> GDP
+	KMK -> NVD
+	XSH
+	XSH -> DXQ
+	XSH -> KNS
+	DTX
+	DTX -> HNQ
+	DTX -> FSG
+	BNS
+	BNS -> TPG
+	BNS -> DND
+	KHM
+	KHM -> BFG
+	KHM -> VDM
+	SBF
+	SBF -> MGK
+	SBF -> RFM
+	NFD
+	NFD -> PKJ
+	NFD -> LDH
+	BHJ
+	BHJ -> VNN
+	BHJ -> CGL
+	TXS
+	TXS -> FVQ
+	TXS -> GKR
+	CRV
+	CRV -> NTQ
+	CRV -> SDV
+	GHT
+	GHT -> FVH
+	GHT -> MNH
+	RBN
+	RBN -> RQC
+	RBN -> MXC
+	KKL
+	KKL -> BDB
+	KKL -> CFK
+	NLN
+	NLN -> RBN
+	NLN -> HBF
+	QFT
+	QFT -> NHC
+	QFT -> QHB
+	QBL
+	QBL -> FLF
+	QBL -> RJS
+	RHG
+	RHG -> PNN
+	RHG -> CPB
+	MNF
+	MNF -> XCV
+	MNF -> HSF
+	SJS
+	SJS -> CRG
+	SJS -> PBL
+	FDK
+	FDK -> VHJ
+	FDK -> HFH
+	HXM
+	HXM -> JJD
+	HXM -> JJD
+	PNN
+	PNN -> QDK
+	PNN -> MMJ
+	GCS
+	GCS -> TTK
+	GCS -> NXC
+	VJF
+	VJF -> LDH
+	VJF -> PKJ
+	GTD
+	GTD -> CBR
+	GTD -> RJD
+	RRD
+	RRD -> TPL
+	RRD -> XVR
+	JXC
+	JXC -> LMV
+	JXC -> PMP
+	NXH
+	NXH -> MKC
+	NXH -> CDT
+	HCK
+	HCK -> GNX
+	HCK -> LKT
+	BRC
+	BRC -> QLL
+	BRC -> RKH
+	KQB
+	KQB -> CRV
+	KQB -> MGR
+	TMB
+	TMB -> MCH
+	TMB -> BSG
+	XJN
+	XJN -> RSX
+	XJN -> JGK
+	HQP
+	HQP -> SFM
+	HQP -> BHT
+	HQT
+	HQT -> MBB
+	HQT -> HCF
+	THC
+	THC -> VKN
+	THC -> PHF
+	TPL
+	TPL -> NGD
+	TPL -> QQB
+	NGD
+	NGD -> PBJ
+	NGD -> JMF
+	GVJ
+	GVJ -> RNT
+	GVJ -> LKV
+	QDK
+	QDK -> LTR
+	QDK -> CNQ
+	JXG
+	JXG -> QKH
+	JXG -> QJC
+	TQN
+	TQN -> KRL
+	TQN -> QCV
+	RDB
+	RDB -> JQS
+	RDB -> BRC
+	MPV
+	MPV -> LRL
+	MPV -> QKK
+	SJQ
+	SJQ -> HKG
+	SJQ -> SSG
+	XHL
+	XHL -> RNL
+	XHL -> FHV
+	LRF
+	LRF -> KQB
+	LRF -> FPK
+	GNX
+	GNX -> SSC
+	GNX -> VPF
+	VXV
+	VXV -> XLX
+	VXV -> RDT
+	MTG
+	MTG -> CCR
+	MTG -> CRR
+	NFG
+	NFG -> BHH
+	NFG -> BHH
+	DSV
+	DSV -> PXB
+	DSV -> PJN
+	CVT
+	CVT -> KPT
+	CVT -> DBF
+	RHL
+	RHL -> JTM
+	RHL -> XJK
+	CBQ
+	CBQ -> GXL
+	CBQ -> PQB
+	BHH
+	BHH -> JXS
+	BHH -> MFQ
+	DMV
+	DMV -> BDC
+	DMV -> PNK
+	NSS
+	NSS -> HQP
+	NSS -> LBS
+	FVM
+	FVM -> PRP
+	FVM -> RFN
+	NCS
+	NCS -> HTP
+	NCS -> LVL
+	QPD
+	QPD -> NDT
+	QPD -> SLM
+	GJC
+	GJC -> FDR
+	GJC -> QVG
+	CFK
+	CFK -> JGG
+	CFK -> NMP
+	HDV
+	HDV -> MGD
+	HDV -> DBP
+	PNB
+	PNB -> PQB
+	PNB -> GXL
+	RXA
+	RXA -> NLJ
+	RXA -> JPG
+	CNH
+	CNH -> JSF
+	CNH -> BQQ
+	VXL
+	VXL -> HXR
+	VXL -> XQQ
+	QKF
+	QKF -> RDP
+	QKF -> DHT
+	QTS
+	QTS -> QKF
+	QTS -> XRS
+	VDL
+	VDL -> SGD
+	VDL -> FRJ
+	FCM
+	FCM -> TQN
+	FCM -> GXV
+	BHQ
+	BHQ -> GQC
+	BHQ -> QRR
+	BSD
+	BSD -> FTJ
+	BSD -> HCK
+	CJJ
+	CJJ -> TPL
+	CJJ -> XVR
+	PLG
+	PLG -> DTD
+	PLG -> BSD
+	LQC
+	LQC -> TKM
+	LQC -> TJQ
+	NTM
+	NTM -> KLG
+	NTM -> PPL
+	SHJ
+	SHJ -> NRL
+	SHJ -> NMS
+	QDL
+	QDL -> BDS
+	QDL -> RHL
+	PCR
+	PCR -> XFP
+	PCR -> QKX
+	XCG
+	XCG -> XFH
+	XCG -> BKL
+	LMV
+	LMV -> GCS
+	LMV -> PXP
+	JJD
+	JJD -> QQV
+	JJD -> QQV
+	HGP
+	HGP -> PMK
+	HGP -> RRR
+	TNF
+	TNF -> RQT
+	TNF -> QTS
+	SFM
+	SFM -> MCP
+	SFM -> LQS
+	MNR
+	MNR -> RFN
+	MNR -> PRP
+	LLL
+	LLL -> CBQ
+	LLL -> PNB
+	RJS
+	RJS -> SNF
+	RJS -> KRN
+	BRV
+	BRV -> CVV
+	BRV -> DDS
+	GGK
+	GGK -> LHS
+	GGK -> PLG
+	HVD
+	HVD -> GBJ
+	HVD -> VQQ
+	KQJ
+	KQJ -> FRT
+	KQJ -> MNF
+	PMK
+	PMK -> CGR
+	PMK -> PQR
+	MFB
+	MFB -> GGK
+	MFB -> CLL
+	HLK
+	HLK -> NTG
+	HLK -> KMB
+	BKL
+	BKL -> CQL
+	BKL -> DVM
+	SVT
+	SVT -> CSB
+	SVT -> SBH
+	FGD
+	FGD -> PNR
+	FGD -> NCV
+	LVT
+	LVT -> VCL
+	LVT -> XTQ
+	MFQ
+	MFQ -> SBL
+	MFQ -> CQB
+	SCC
+	SCC -> KKH
+	SCC -> LBH
+	JMF
+	JMF -> VFB
+	JMF -> LTK
+	GLC
+	GLC -> FBS
+	GLC -> DNB
+	HFT
+	HFT -> MMQ
+	HFT -> LDB
+	PNR
+	PNR -> PTG
+	PNR -> KSB
+	SNM
+	SNM -> CRR
+	SNM -> CCR
+	TJK
+	TJK -> DTV
+	TJK -> KPD
+	PQR
+	PQR -> NJC
+	PQR -> CNF
+	VPM
+	VPM -> QDL
+	VPM -> SNT
+	DHT
+	DHT -> KGT
+	DHT -> CXH
+	RPK
+	RPK -> KML
+	RPK -> XRL
+	VFH
+	VFH -> HSB
+	VFH -> QBV
+	FNP
+	FNP -> JBQ
+	FNP -> JKP
+	JLS
+	JLS -> QLN
+	JLS -> JCS
+	XMS
+	XMS -> JGK
+	XMS -> RSX
+	FRK
+	FRK -> GGK
+	FRK -> CLL
+	PDJ
+	PDJ -> GKF
+	PDJ -> BVN
+	QDH
+	QDH -> JLC
+	QDH -> QTG
+	PFX
+	PFX -> GCV
+	PFX -> NBX
+	BXB
+	BXB -> MBB
+	BXB -> MBB
+	TTK
+	TTK -> KQJ
+	TTK -> FMV
+	PKS
+	PKS -> DDC
+	PKS -> CTJ
+	KLG
+	KLG -> RCM
+	KLG -> CKL
+	CSV
+	CSV -> QVB
+	CSV -> MDT
+	NNG
+	NNG -> DXR
+	NNG -> BPD
+	HHC
+	HHC -> KCR
+	HHC -> QJP
+	LVL
+	LVL -> CSQ
+	LVL -> TKJ
+	QHB
+	QHB -> JHT
+	QHB -> SSM
+	JDM
+	JDM -> SKK
+	JDM -> NFL
+	JCQ
+	JCQ -> TNK
+	JCQ -> LPJ
+	TSQ
+	TSQ -> MQH
+	TSQ -> PRD
+	JTS
+	JTS -> PQJ
+	JTS -> CNH
+	RCR
+	RCR -> KCT
+	RCR -> GNQ
+	LXG
+	LXG -> CBQ
+	LXG -> PNB
+	TKQ
+	TKQ -> HXP
+	TKQ -> TNF
+	PKM
+	PKM -> PBT
+	PKM -> SJR
+	GXV
+	GXV -> QCV
+	GXV -> KRL
+	HJS
+	HJS -> BBX
+	HJS -> RPK
+	CPX
+	CPX -> XSK
+	CPX -> XSK
+	JXD
+	JXD -> BTX
+	JXD -> GJC
+	CVV
+	CVV -> HXM
+	CVV -> VDB
+	SBL
+	SBL -> LDD
+	SBL -> QDV
+	HBC
+	HBC -> VPM
+	HBC -> KKG
+	DXR
+	DXR -> CVT
+	DXR -> KKS
+	VDB
+	VDB -> JJD
+	VDB -> BVS
+	XQQ
+	XQQ -> VVL
+	XQQ -> LRZ
+	PQB
+	PQB -> BXS
+	PQB -> XSQ
+	NTX
+	NTX -> HXP
+	NTX -> TNF
+	SCG
+	SCG -> VMQ
+	SCG -> HJS
+	GHN
+	GHN -> SBF
+	GHN -> JKV
+	VXR
+	VXR -> SGL
+	VXR -> LMC
+	NQF
+	NQF -> VPD
+	NQF -> QFT
+	DDS
+	DDS -> HXM
+	DDS -> VDB
+	KLM
+	KLM -> LBH
+	KLM -> KKH
+	SGL
+	SGL -> QRL
+	SGL -> KLQ
+	GKR
+	GKR -> CSV
+	GKR -> RTH
+	QDT
+	QDT -> DFN
+	QDT -> VSX
+	MNT
+	MNT -> SNH
+	MNT -> FPP
+	TDP
+	TDP -> TKV
+	TDP -> KVP
+	KNL
+	KNL -> PXB
+	KNL -> PXB
+	GMN
+	GMN -> KVP
+	GMN -> TKV
+	MXL
+	MXL -> SGG
+	MXL -> LCR
+	PKD
+	PKD -> FXX
+	PKD -> KVK
+	SXP
+	SXP -> FNK
+	SXP -> VPK
+	NTG
+	NTG -> BSX
+	NTG -> FDM
+	QSR
+	QSR -> KBG
+	QSR -> CKD
+	FHV
+	FHV -> XCL
+	FHV -> MBP
+	RDT
+	RDT -> NNT
+	RDT -> DKJ
+	SPR
+	SPR -> HKC
+	SPR -> DRQ
+	FFN
+	FFN -> JHD
+	FFN -> GLR
+	FBS
+	FBS -> QXL
+	FBS -> FTF
+	VLP
+	VLP -> FFN
+	VLP -> NKT
+	KXC
+	KXC -> SKL
+	KXC -> GVJ
+	TKJ
+	TKJ -> FQR
+	TKJ -> FGD
+	LHH
+	LHH -> PHT
+	LHH -> PCD
+	CTM
+	CTM -> GHV
+	CTM -> QMV
+	VHH
+	VHH -> JQS
+	VHH -> BRC
+	MQX
+	MQX -> MJM
+	MQX -> QQS
+	BBX
+	BBX -> XRL
+	BBX -> KML
+	LKK
+	LKK -> PKM
+	LKK -> FPN
+	RNT
+	RNT -> PVX
+	RNT -> SMM
+	JSA
+	JSA -> TNJ
+	JSA -> JXC
+	RDK
+	RDK -> LBS
+	RDK -> HQP
+	RXF
+	RXF -> MNT
+	RXF -> DCG
+	HDH
+	HDH -> HND
+	HDH -> DTX
+	VKN
+	VKN -> FSS
+	VKN -> PQX
+	LSB
+	LSB -> VLP
+	LSB -> BXQ
+	BPD
+	BPD -> CVT
+	BPD -> KKS
+	TMT
+	TMT -> BSG
+	TMT -> MCH
+	QLV
+	QLV -> JBQ
+	QLV -> JKP
+	LPJ
+	LPJ -> KVD
+	LPJ -> QSX
+	QDS
+	QDS -> VPK
+	QDS -> FNK
+	GQS
+	GQS -> VXV
+	GQS -> DNL
+	DTV
+	DTV -> NSS
+	DTV -> RDK
+	SNB
+	SNB -> JLB
+	SNB -> LLV
+	NMM
+	NMM -> SXP
+	NMM -> QDS
+	CSB
+	CSB -> TSQ
+	CSB -> JXH
+	PFF
+	PFF -> FXX
+	PFF -> KVK
+	VHJ
+	VHJ -> XDV
+	VHJ -> DMD
+	XFX
+	XFX -> KSN
+	XFX -> THB
+	CCR
+	CCR -> NQF
+	CCR -> RSG
+	VMQ
+	VMQ -> BBX
+	VMQ -> RPK
+	HXR
+	HXR -> VVL
+	HXR -> VVL
+	SJV
+	SJV -> KVH
+	SJV -> SLL
+	CFN
+	CFN -> KLG
+	CFN -> PPL
+	DDH
+	DDH -> RHG
+	DDH -> GJN
+	FLG
+	FLG -> HMD
+	FLG -> LHH
+	FVQ
+	FVQ -> RTH
+	FVQ -> CSV
+	RTK
+	RTK -> BMK
+	RTK -> QBL
+	NSC
+	NSC -> SVH
+	NSC -> QSR
+	MKC
+	MKC -> FCM
+	MKC -> JKR
+	XTJ
+	XTJ -> GHV
+	XTJ -> QMV
+	CNQ
+	CNQ -> FVN
+	CNQ -> TFX
+	SJR
+	SJR -> BJJ
+	SJR -> BHQ
+	MGR
+	MGR -> NTQ
+	MGR -> SDV
+	XFH
+	XFH -> DVM
+	XFH -> CQL
+	QSX
+	QSX -> GRR
+	QSX -> PNJ
+	QKX
+	QKX -> HBX
+	QKX -> RMX
+	LBK
+	LBK -> BQN
+	LBK -> BRT
+	PXQ
+	PXQ -> MRV
+	PXQ -> LFD
+	LDQ
+	LDQ -> SFH
+	LDQ -> RHV
+	MNH
+	MNH -> HHC
+	MNH -> TSV
+	XCV
+	XCV -> HPB
+	XCV -> NFR
+	KLQ
+	KLQ -> QBJ
+	KLQ -> XSH
+	FTF
+	FTF -> SCQ
+	FTF -> RGC
+	JJQ
+	JJQ -> MPV
+	JJQ -> KXN
+	LJL
+	LJL -> VDV
+	LJL -> SJJ
+	DNB
+	DNB -> FTF
+	DNB -> QXL
+	CFX
+	CFX -> VDV
+	CFX -> SJJ
+	JKT
+	JKT -> DKT
+	JKT -> DKT
+	SJJ
+	SJJ -> THK
+	SJJ -> HSK
+	CDL
+	CDL -> JLS
+	CDL -> CPK
+	QCV
+	QCV -> XRH
+	QCV -> LKK
+	XCR
+	XCR -> GJL
+	XCR -> JXD
+	KMJ
+	KMJ -> MLJ
+	KMJ -> PQZ
+	MPS
+	MPS -> DJM
+	MPS -> GXX
+	GBJ
+	GBJ -> MQN
+	GBJ -> FQD
+	PNK
+	PNK -> KNL
+	PNK -> DSV
+	BRB
+	BRB -> HMD
+	BRB -> LHH
+	PBT
+	PBT -> BJJ
+	PBT -> BHQ
+	JPG
+	JPG -> JCT
+	JPG -> GBH
+	HSR
+	HSR -> BHH
+	HSR -> ZZZ
+	DQQ
+	DQQ -> QQS
+	DQQ -> MJM
+	MCP
+	MCP -> SJQ
+	MCP -> RHD
+	LTM
+	LTM -> TXS
+	LTM -> FQJ
+	KKS
+	KKS -> KPT
+	KKS -> DBF
+	DCG
+	DCG -> FPP
+	DCG -> SNH
+	TDK
+	TDK -> MMR
+	TDK -> NTP
+	QJP
+	QJP -> LLF
+	QJP -> QXC
+	NFR
+	NFR -> FNQ
+	NFR -> VHR
+	FKD
+	FKD -> FNT
+	FKD -> VXL
+	LMC
+	LMC -> KLQ
+	LMC -> QRL
+	PBL
+	PBL -> FVM
+	PBL -> MNR
+	JHD
+	JHD -> DMF
+	JHD -> HVD
+	CRR
+	CRR -> RSG
+	CRR -> NQF
+	JJZ
+	JJZ -> JVD
+	JJZ -> JSN
+	RQH
+	RQH -> DXR
+	RQH -> BPD
+	HXF
+	HXF -> VCL
+	HXF -> XTQ
+	CRG
+	CRG -> MNR
+	CRG -> FVM
+	VHR
+	VHR -> QHG
+	VHR -> LCQ
+	VCS
+	VCS -> VTX
+	VCS -> TGX
+	FPP
+	FPP -> QDH
+	FPP -> PSQ
+	KSN
+	KSN -> XFT
+	KSN -> XFT
+	BVS
+	BVS -> QQV
+	BVS -> PJD
+	RSX
+	RSX -> RXF
+	RSX -> CNJ
+	FXC
+	FXC -> XSK
+	FXC -> XFX
+	HDJ
+	HDJ -> CDL
+	HDJ -> VGL
+	QQC
+	QQC -> SBF
+	QQC -> JKV
+	LPB
+	LPB -> GHN
+	LPB -> QQC
+	LRJ
+	LRJ -> QHS
+	LRJ -> JQK
+	SCQ
+	SCQ -> RCR
+	SCQ -> RRJ
+	PQJ
+	PQJ -> JSF
+	PQJ -> BQQ
+	GKG
+	GKG -> VMJ
+	GKG -> LRJ
+	SSC
+	SSC -> NRN
+	SSC -> LBL
+	NVT
+	NVT -> JLB
+	NVT -> LLV
+	KVD
+	KVD -> GRR
+	KVD -> PNJ
+	XRL
+	XRL -> CTT
+	XRL -> MCX
+	BTS
+	BTS -> VMQ
+	BTS -> HJS
+	KRL
+	KRL -> XRH
+	KRL -> LKK
+	RRN
+	RRN -> BGL
+	RRN -> SVT
+	FHS
+	FHS -> SNM
+	FHS -> MTG
+	QPG
+	QPG -> VMJ
+	QPG -> LRJ
+	QKK
+	QKK -> TRC
+	QKK -> MCG
+	VDV
+	VDV -> THK
+	VDV -> HSK
+	GPH
+	GPH -> VXR
+	GPH -> GKQ
+	RNL
+	RNL -> XCL
+	RNL -> MBP
+	SLN
+	SLN -> THC
+	SLN -> THR
+	CPB
+	CPB -> MMJ
+	CPB -> QDK
+	NMS
+	NMS -> XTJ
+	NMS -> CTM
+	RJR
+	RJR -> BTS
+	RJR -> SCG
+	CGL
+	CGL -> VCS
+	CGL -> BSR
+	MBP
+	MBP -> MFB
+	MBP -> FRK
+	NNT
+	NNT -> FGB
+	NNT -> BKD
+	HTP
+	HTP -> CSQ
+	HTP -> TKJ
+	GPG
+	GPG -> RML
+	GPG -> JHK
+	QRL
+	QRL -> QBJ
+	QRL -> XSH
+	BCD
+	BCD -> GSV
+	BCD -> QPD
+	QQV
+	QQV -> VLM
+	QQV -> VLM
+	PRP
+	PRP -> CFX
+	PRP -> LJL
+	TFR
+	TFR -> KKG
+	TFR -> VPM
+	LDD
+	LDD -> QRJ
+	LDD -> BFS
+	QVM
+	QVM -> VNN
+	QVM -> CGL
+	KGF
+	KGF -> FBS
+	KGF -> DNB
+	GBH
+	GBH -> MHV
+	GBH -> LNB
+	JCG
+	JCG -> JKT
+	JCG -> SVM
+	FJQ
+	FJQ -> NMS
+	FJQ -> NRL
+	QXL
+	QXL -> RGC
+	QXL -> SCQ
+	NRN
+	NRN -> SPR
+	NRN -> VVF
+	FDM
+	FDM -> XMS
+	FDM -> XJN
+	RFM
+	RFM -> BRV
+	RFM -> CRH
+	NKT
+	NKT -> GLR
+	NKT -> JHD
+	HFR
+	HFR -> VHD
+	HFR -> LBJ
+	THB
+	THB -> XFT
+	THB -> VHZ
+	XJJ
+	XJJ -> BXB
+	XJJ -> HQT
+	QTG
+	QTG -> VSV
+	QTG -> TKN
+	NQC
+	NQC -> PCR
+	NQC -> FMX
+	JLB
+	JLB -> HFT
+	JLB -> PPH
+	GXL
+	GXL -> BXS
+	GXL -> XSQ
+	PSQ
+	PSQ -> QTG
+	PSQ -> JLC
+	NDT
+	NDT -> BRB
+	NDT -> FLG
+	PJN
+	PJN -> RRT
+	PJN -> KMJ
+	TBT
+	TBT -> CKB
+	TBT -> CCX
+	JBH
+	JBH -> GKQ
+	JBH -> VXR
+	XVR
+	XVR -> QQB
+	XVR -> NGD
+	BRT
+	BRT -> XGL
+	BRT -> BLL
+	PCD
+	PCD -> MPS
+	PCD -> LNL
+	SKL
+	SKL -> RNT
+	SKL -> LKV
+	TSH
+	TSH -> BGL
+	TSH -> SVT
+	JQF
+	JQF -> DVQ
+	JQF -> NLN
+	DVQ
+	DVQ -> RBN
+	DVQ -> HBF
+	RGC
+	RGC -> RCR
+	RGC -> RRJ
+	QRJ
+	QRJ -> TNL
+	QRJ -> NXH
+	XCL
+	XCL -> MFB
+	XCL -> FRK
+	VLM
+	VLM -> JSN
+	VLM -> JVD
+	RDP
+	RDP -> KGT
+	RDP -> CXH
+	VTJ
+	VTJ -> FLB
+	VTJ -> BJS
+	LCX
+	LCX -> XBL
+	LCX -> MTJ
+	JVD
+	JVD -> QFQ
+	JVD -> LJQ
+	BKM
+	BKM -> NJK
+	BKM -> PBD
+	VMJ
+	VMJ -> QHS
+	VMJ -> JQK
+	DMF
+	DMF -> VQQ
+	DMF -> GBJ
+	CDT
+	CDT -> FCM
+	CDT -> JKR
+	NTQ
+	NTQ -> NTV
+	NTQ -> VMG
+	QRR
+	QRR -> NSF
+	QRR -> NKG
+	NDL
+	NDL -> RNM
+	NDL -> NCS
+	KVG
+	KVG -> LPJ
+	KVG -> TNK
+	DCS
+	DCS -> BLK
+	DCS -> LBK
+	JFQ
+	JFQ -> RHG
+	JFQ -> GJN
+	GKQ
+	GKQ -> SGL
+	GKQ -> LMC
+	JTF
+	JTF -> GPG
+	JTF -> XDT
+	SVH
+	SVH -> CKD
+	SVH -> KBG
+	RRR
+	RRR -> PQR
+	RRR -> CGR
+	RHN
+	RHN -> CHN
+	RHN -> XHL
+	HNQ
+	HNQ -> GPH
+	HNQ -> JBH
+	BFG
+	BFG -> GTD
+	BFG -> HRP
+	LLV
+	LLV -> PPH
+	LLV -> HFT
+	NMP
+	NMP -> BJG
+	NMP -> JTS
+	CSQ
+	CSQ -> FQR
+	CSQ -> FGD
+	MRV
+	MRV -> HLS
+	MRV -> LQC
+	LDJ
+	LDJ -> KMB
+	LDJ -> NTG
+	PHT
+	PHT -> LNL
+	PHT -> MPS
+	DJM
+	DJM -> RCJ
+	DJM -> KKL
+	PTG
+	PTG -> VBD
+	PTG -> VDL
+	PMP
+	PMP -> PXP
+	PMP -> GCS
+	LTN
+	LTN -> QKB
+	LTN -> QKB
+	BFS
+	BFS -> NXH
+	BFS -> TNL
+	MGD
+	MGD -> XCG
+	MGD -> HNV
+	QBV
+	QBV -> MRP
+	QBV -> LXX
+	VFB
+	VFB -> LVT
+	VFB -> HXF
+	XTQ
+	XTQ -> TKT
+	XTQ -> DKM
+	QBR
+	QBR -> QBV
+	QBR -> HSB
+	CPK
+	CPK -> QLN
+	CPK -> JCS
+	MCG
+	MCG -> NQC
+	MCG -> PSX
+	VMG
+	VMG -> VHP
+	VMG -> JXG
+	FNQ
+	FNQ -> LCQ
+	FNQ -> QHG
+}
