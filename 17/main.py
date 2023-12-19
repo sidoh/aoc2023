@@ -178,8 +178,6 @@ def main():
     d = dict(zip(path, directions))
     t = 0
 
-    # 1264 too high
-
     for i, row in enumerate(grid):
         for j, col in enumerate(row):
             if (i, j) in d:

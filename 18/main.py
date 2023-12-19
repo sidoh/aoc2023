@@ -99,8 +99,9 @@ def solve2(problem: ParsedProblem) -> int:
         area += vertexes[i][0] * vertexes[i + 1][1] - vertexes[i + 1][0] * vertexes[i][1]
 
     enclosed_area = abs(area) // 2
+    perimeter_area = (problem['path_length'] // 2) + 1
 
-    return enclosed_area + (problem['path_length'] + 2) // 2
+    return enclosed_area + perimeter_area
 def parse(
         input: str,
         instruction_parser: Callable[[list[str]], tuple[Direction, int, str]]
