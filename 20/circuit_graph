@@ -1,0 +1,172 @@
+digraph {
+	ng [shape=diamond]
+	hv [shape=diamond]
+	cn [shape=diamond]
+	sc [shape=diamond]
+	rt [shape=box]
+	bc [shape=diamond]
+	sb [shape=diamond]
+	vz [shape=diamond]
+	sm [shape=diamond]
+	kp [shape=diamond]
+	gk [shape=box]
+	bs [shape=diamond]
+	pn [shape=diamond]
+	rq [shape=diamond]
+	jr [shape=diamond]
+	vm [shape=diamond]
+	rk [shape=diamond]
+	gs [shape=diamond]
+	dc [shape=diamond]
+	bz [shape=diamond]
+	ql [shape=diamond]
+	kt [shape=diamond]
+	gn [shape=diamond]
+	broadcaster [shape=ellipse]
+	rl [shape=diamond]
+	hj [shape=box]
+	vj [shape=diamond]
+	jx [shape=diamond]
+	ks [shape=box]
+	rh [shape=diamond]
+	hk [shape=diamond]
+	fn [shape=diamond]
+	jl [shape=diamond]
+	vq [shape=diamond]
+	mr [shape=diamond]
+	fk [shape=diamond]
+	jc [shape=diamond]
+	jf [shape=box]
+	lg [shape=diamond]
+	zz [shape=diamond]
+	pq [shape=diamond]
+	xt [shape=diamond]
+	bf [shape=diamond]
+	qs [shape=box]
+	gv [shape=diamond]
+	bt [shape=diamond]
+	mm [shape=diamond]
+	jg [shape=diamond]
+	lx [shape=diamond]
+	rr [shape=diamond]
+	fv [shape=box]
+	mx [shape=diamond]
+	zk [shape=box]
+	sl [shape=box]
+	fz [shape=diamond]
+	mk [shape=diamond]
+	xd [shape=diamond]
+	cc [shape=diamond]
+	rx [shape=ellipse]
+	button [shape=ellipse]
+	ng -> vz
+	hv -> zz
+	cn -> fv
+	cn -> kp
+	sc -> sm
+	rt -> jf
+	rt -> hv
+	rt -> bs
+	rt -> kt
+	rt -> fn
+	bc -> fv
+	sb -> gk
+	vz -> gk
+	vz -> lg
+	sm -> mx
+	kp -> fv
+	kp -> pq
+	gk -> mx
+	gk -> sc
+	gk -> vq
+	gk -> bz
+	gk -> ng
+	gk -> zk
+	gk -> sm
+	bs -> rt
+	bs -> mk
+	pn -> rt
+	rq -> sl
+	rq -> xd
+	jr -> fv
+	jr -> bc
+	vm -> rt
+	vm -> pn
+	rk -> gk
+	rk -> sb
+	gs -> xt
+	dc -> sl
+	bz -> gk
+	bz -> sc
+	ql -> sl
+	ql -> fz
+	kt -> bt
+	gn -> fv
+	gn -> hk
+	broadcaster -> bs
+	broadcaster -> rq
+	broadcaster -> cn
+	broadcaster -> bz
+	rl -> rh
+	rl -> gk
+	hj -> rx
+	vj -> rt
+	vj -> rr
+	jx -> fv
+	jx -> bf
+	ks -> hj
+	rh -> gk
+	rh -> vq
+	hk -> jx
+	fn -> vj
+	jl -> mr
+	jl -> sl
+	vq -> ng
+	mr -> sl
+	mr -> dc
+	fk -> cc
+	jc -> fk
+	jc -> sl
+	jf -> hj
+	lg -> gk
+	lg -> rk
+	zz -> jg
+	zz -> rt
+	pq -> lx
+	pq -> fv
+	xt -> gn
+	bf -> fv
+	bf -> jr
+	qs -> hj
+	gv -> sl
+	gv -> jl
+	bt -> rt
+	bt -> fn
+	mm -> sl
+	mm -> ql
+	jg -> vm
+	jg -> rt
+	lx -> gs
+	rr -> hv
+	rr -> rt
+	fv -> xt
+	fv -> qs
+	fv -> gs
+	fv -> cn
+	fv -> lx
+	fv -> hk
+	mx -> rl
+	zk -> hj
+	sl -> fk
+	sl -> rq
+	sl -> fz
+	sl -> xd
+	sl -> ks
+	fz -> jc
+	mk -> rt
+	mk -> kt
+	xd -> mm
+	cc -> sl
+	cc -> gv
+	button -> broadcaster
+}
