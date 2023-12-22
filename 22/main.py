@@ -30,9 +30,15 @@ class Brick:
     def is_supporting(self, other: 'Brick') -> bool:
         return (
             other.z_bounds[0] - 1 == self.z_bounds[1] and
-            not (other.x_bounds[1] < self.x_bounds[0] or other.x_bounds[0] > self.x_bounds[1]) and
-            not (other.y_bounds[1] < self.y_bounds[0] or other.y_bounds[0] > self.y_bounds[1])
+            self.intersects_x(other) and
+            self.intersects_y(other)
         )
+
+    def intersects_x(self, other: 'Brick') -> bool:
+        return not (other.x_bounds[1] < self.x_bounds[0] or other.x_bounds[0] > self.x_bounds[1])
+
+    def intersects_y(self, other: 'Brick') -> bool:
+        return not (other.y_bounds[1] < self.y_bounds[0] or other.y_bounds[0] > self.y_bounds[1])
 
     def __hash__(self):
         return hash((self.x_bounds, self.y_bounds, self.z_bounds))
@@ -68,6 +74,28 @@ class Container:
     def dump(self) -> str:
         return '\n'.join(b.dump() for b in self.bricks)
 
+    def settle2(self):
+        # for each block, shift downward until supported. only blocks below can support
+        sorted_bricks = sorted(self.bricks, key=lambda b: b.z_bounds[0])
+
+        for b1_i in range(len(sorted_bricks)):
+            b1 = sorted_bricks[b1_i]
+
+            if b1.z_bounds[0] == 1:
+                continue
+
+            max_z = 0
+
+            for b2_i in range(0, b1_i):
+                b2 = sorted_bricks[b2_i]
+                if b2.intersects_x(b1) and b2.intersects_y(b1) and b2.z_bounds[1] > max_z:
+                    max_z = b2.z_bounds[1]
+
+            if max_z < b1.z_bounds[0] - 1:
+                shifted_by = b1.z_bounds[0] - 1 - max_z
+                b1.z_bounds = (max_z + 1, b1.z_bounds[1] - shifted_by)
+
+
     def settle(self):
         # Consider pairs of bricks b1 and b2. If there is no b2 below b1, shift b1 down.
         # Do this until there are no bricks left to settle.
@@ -75,12 +103,13 @@ class Container:
 
         print("settling...")
 
+        sorted_z_min = sorted(self.bricks, key=lambda b: b.z_bounds[0])
+        sorted_z_max = sorted(self.bricks, key=lambda b: b.z_bounds[1])
+
         while shifted:
             shifted = False
 
             num_settled = 0
-            sorted_z_min = sorted(self.bricks, key=lambda b: b.z_bounds[0])
-            sorted_z_max = sorted(self.bricks, key=lambda b: b.z_bounds[1])
 
             for b1_i in range(len(self.bricks)):
                 b1 = sorted_z_min[b1_i]
@@ -97,6 +126,8 @@ class Container:
                         continue
                     elif b2.z_bounds[1] > b1.z_bounds[0]:
                         break
+                    elif b2.z_bounds[1] < b1.z_bounds[0] - 1:
+                        continue
                     elif b2.is_supporting(b1):
                         b1_supported = True
                         break
@@ -105,8 +136,6 @@ class Container:
                     num_settled += 1
                     b1.z_bounds = (b1.z_bounds[0] - 1, b1.z_bounds[1] - 1)
                     shifted = True
-
-            print("num settled:", num_settled)
 
         print("done settling")
 
@@ -230,20 +259,16 @@ def solve1(container: Container) -> int:
         supported = supports[brick]
         # see if all supported bricks are supported by other bricks
         if all(len(supported_by[b]) > 1 for b in supported) or len(supported) == 0:
-            print("removing", brick.label)
             removable += 1
 
     return removable
 
 if __name__ == "__main__":
     # input_str = EXAMPLE1
-    input_str = open('settled-input.txt').read().strip()
+    input_str = open('input.txt').read().strip()
 
     container = parse(input_str)
-    # container.settle()
-    #
-    # with open('settled-input.txt', 'w') as f:
-    #     f.write(container.dump())
+    container.settle2()
 
     print(solve1(container))
     print(solve2(container))
