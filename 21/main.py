@@ -525,8 +525,8 @@ def expand_infinite_grid_state(
     After each increase in step count, the values 39/42 swap (these are cycle_values). The other numbers will
     change, but the edges will revert to the same numbers after cycle_length steps.
 
-    We expand this grid to steps by adding multiples of 39+42 to the center row, above row, and below row
-
+    We expand this grid to steps by adding multiples of 39+42 to the center row, above row, and below row.
+    The top and bottom rows which do not have both 39 and 42 are added as "residue" to the total.
 
     :param steps:
     :param start:
