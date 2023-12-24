@@ -219,7 +219,7 @@ def timed(label: str):
 
     def checkpoint(message: str):
         nonlocal start
-        print(f'{label} - {message}: {end - start:.2f}s\n')
+        print(f'{label} - {message}: {time.perf_counter() - start:.2f}s\n')
 
     yield checkpoint
 
